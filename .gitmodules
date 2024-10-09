@@ -1,0 +1,3 @@
+[submodule "external/sourcesdk"]
+	path = external/sourcesdk
+	url = https://github.com/Wend4r/sourcesdk.git
