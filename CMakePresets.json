@@ -7,12 +7,7 @@
 		{
 			"name": "Base",
 			"binaryDir": "${sourceDir}/build/${hostSystemName}/${presetName}",
-			"hidden": true,
-
-			"cacheVariables":
-			{
-				"SOURCESDK_MALLOC_OVERRIDE": false
-			}
+			"hidden": true
 		},
 		{
 			"name": "NinjaBase",
